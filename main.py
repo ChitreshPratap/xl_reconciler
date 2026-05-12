@@ -28,10 +28,10 @@ if __name__ in {'__main__', '__mp_main__'}:
     # app = MainApplication()
     # app.build()
     ui.run(
-        #    native=True,
+           native=True,
             window_size=(1200, 800),
             # fullscreen=False,
-            on_air=True,
+            # on_air=True,
             reload=False,
             title='Recon Vault',
             # port=native.find_free_port() if 'native' in locals() else 8080
