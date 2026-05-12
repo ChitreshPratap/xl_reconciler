@@ -1,0 +1,7 @@
+create a single page application using easy gui.
+at the top of the application there should a application icon, application title and at the right side there should be some naviagation bar.
+Below header there should be one side bar at the left hand side and at the right hand side corresponding view should be visible.
+In view of the pages should contain header and short description at the top.
+
+There should be one footer below the sidebar and its view.
+

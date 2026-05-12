@@ -1,0 +1,13 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+/__pycache__
+/creator_ncgui/__pycache__
+/src/screens/__pycache__
+/src/structures/__pycache__
+/src/facilities/__pycache__
+/src/customparts/__pycache__
+/src/conciliator/__pycache__
+/src/conciliator/__pycache__
+/src/conciliator/__pycache__
+/build
+/dist
